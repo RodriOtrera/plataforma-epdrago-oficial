@@ -4,7 +4,7 @@ const Navbar: React.FC = ({}) => {
   return (
     <div className="mb-8 flex items-center justify-between">
       <h1 className="text-3xl font-bold">Epdrago</h1>
-      <div className="flex items-center space-x-10">
+      <div className="hidden items-center space-x-10 lg:flex ">
         <h1>Cursos</h1>
         <h1>Noticias</h1>
         <h1>Contacto</h1>
