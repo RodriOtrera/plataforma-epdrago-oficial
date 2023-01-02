@@ -2,11 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
+body {
   background-color: #050606;
   color: white;
 }
 
 main-content {
- 
 }
